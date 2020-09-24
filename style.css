@@ -1,4 +1,4 @@
-* {
+      * {
 	  box-sizing: border-box;
 	}
 	
@@ -54,15 +54,15 @@
 	}
 	
 	.name1{
-	  background-color: #FFB6C1;
+	  background-color: blue;
 	}
 	
 	.name2{
 	  color: white;
-	  background-color: #FF0000;
+	  background-color: green;
 	}
 	.name3{
-	  background-color: #FFFF00;
+	  background-color: maroon;
 	}
 	
 	
